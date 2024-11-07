@@ -1,0 +1,11 @@
+question,answer
+What is MLOps?,MLOps is a set of practices to streamline the machine learning lifecycle.
+Why is MLOps important?,"MLOps helps in scaling, monitoring, and maintaining ML models in production."
+What is a data drift?,Data drift is a change in the statistical properties of the input data over time.
+How does versioning work in MLOps?,Versioning allows you to track and manage different versions of models and datasets.
+What is a model registry?,A model registry is a centralized storage for keeping track of model versions.
+How can I monitor a model in production?,"By tracking metrics like accuracy, latency, and detecting data drift in real time."
+What is the purpose of Docker?,Docker helps in creating reproducible environments for model deployment.
+What are CI/CD pipelines?,CI/CD pipelines automate the testing and deployment of code and models.
+Why use MLflow?,"MLflow tracks experiments, manages models, and facilitates reproducible ML workflows."
+How does FastAPI work with ML models?,FastAPI allows you to build an API for serving ML models to interact with applications.

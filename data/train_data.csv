@@ -1,0 +1,9 @@
+,question,answer
+5,how can i monitor a model in production ,by tracking metrics like accuracy latency and detecting data drift in real time 
+0,what is mlops ,mlops is a set of practices to streamline the machine learning lifecycle 
+7,what are ci cd pipelines ,ci cd pipelines automate the testing and deployment of code and models 
+2,what is a data drift ,data drift is a change in the statistical properties of the input data over time 
+9,how does fastapi work with ml models ,fastapi allows you to build an api for serving ml models to interact with applications 
+4,what is a model registry ,a model registry is a centralized storage for keeping track of model versions 
+3,how does versioning work in mlops ,versioning allows you to track and manage different versions of models and datasets 
+6,what is the purpose of docker ,docker helps in creating reproducible environments for model deployment 
